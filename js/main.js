@@ -324,7 +324,7 @@
 		number = number.substring(30,32);
 		// number = number.slice(-6);
 		console.log("confirmando",name,number);
-		window.open("https://wa.me/+526442511395/?text=Hola,%20quiero%20confirmar%20mi%20asistencia%20para%20la%20boda%20de%20Claudia%20y%20Silver%20para%20"+number+" personas. Mi nombre es "+name,"_blank");
+		window.open("https://wa.me/+526442511395/?text=Hola,%20quiero%20confirmar%20mi%20asistencia%20para%20la%20boda%20de%20Claudia%20y%20Silver%20para%20"+number+" personas. Invitados: "+name,"_blank");
 		
 	
 	}
